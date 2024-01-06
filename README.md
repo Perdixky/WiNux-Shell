@@ -1,4 +1,4 @@
 # WiNux-Shell
-![OIG](https://github.com/Perdixky/WiNux-Shell/assets/105138864/a009fef4-7359-4bfd-b4a0-08d703e9fc9e)
+![OIG_small](https://github.com/Perdixky/WiNux-Shell/assets/105138864/127f9116-52f1-4659-bdcf-a8080e8ee00b)
 一个使用Linux命令行控制Windows系统的Shell
 
